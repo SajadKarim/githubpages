@@ -6,6 +6,7 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+        <link rel="stylesheet" href="{{ '/assets/css/style_ex.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="https://code.jquery.com/jquery-3.3.0.min.js" integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" crossorigin="anonymous"></script>
     <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
     <!--[if lt IE 9]>
@@ -25,14 +26,7 @@
       <div id="banner">
         <span id="logo"></span>
 
-<ul>
-  <li><a href="./" class="button"><strong>Page 1</strong></a></li>
-  <li><a href="./another-page.html" class="button"><strong>Page 2</strong></a></li>
-  <li><a href="./another-page.html" class="button"><strong>Page 3</strong></a></li>   
-  <li><a href="./another-page.html" class="button"><strong>Page 4</strong></a></li>
-</ul>
-
-        
+<a href="./" class="button buttonex"><strong>Page 1</strong></a><a href="./another-page.html" class="button buttonex"><strong>Page 2</strong></a><a href="./another-page.html" class="button buttonex"><strong>Page 3</strong></a><a href="./another-page.html" class="button buttonex"><strong>Page 4</strong></a>
                 
         {% if site.show_downloads %}
           <div class="downloads">
