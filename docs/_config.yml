@@ -22,7 +22,7 @@ title: SMASH
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   A Common Storage engine for Modern Memory and Storage Hierarchies.
-baseurl: "/githubpages/website" # the subpath of your site, e.g. /blog
+baseurl: "/githubpages" # the subpath of your site, e.g. /blog
 url: "https://sajadkarim.github.io" # the base hostname & protocol for your site, e.g.
 twitter_username: jekyllrb
 github_username:  jekyll
@@ -32,8 +32,7 @@ repo_url : "https://github.com/SajadKarim/githubpages"
 
 remote_theme: pages-themes/leap-day@v0.2.0
 
-source: docs/website/
-destination: docs/website/
+
 
 
 # Build settings
