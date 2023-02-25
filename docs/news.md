@@ -8,7 +8,7 @@ you're on the news page..
 >
 
 # 2022
-> Kick-off meeting! - October 21, 2022
+> Kick-off meeting! - October
 >
 
 > abc
