@@ -2,9 +2,8 @@
 layout: default
 ---
 
-you're on the news page..
 
-## Prof. Dr. rer. nat. habil. Gunter Saake
+# Prof. Dr. rer. nat. habil. Gunter Saake
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 > Otto-von-Guericke-Universitat, Magdeburg
 >
@@ -12,7 +11,7 @@ you're on the news page..
 >
 > jasdlf at aljdsf
 
-## Jun.-Prof. Dr. Michael Kuhn 
+# Jun.-Prof. Dr. Michael Kuhn 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 > Otto-von-Guericke-Universitat, Magdeburg
 >
@@ -20,7 +19,7 @@ you're on the news page..
 >
 > jasdlf at aljdsf
 
-## Dr. David Broneske
+# Dr. David Broneske
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 > Otto-von-Guericke-Universitat, Magdeburg
 >
