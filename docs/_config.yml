@@ -32,7 +32,7 @@ repo_url : "https://github.com/SajadKarim/githubpages"
 
 remote_theme: pages-themes/leap-day@v0.2.0
 
-
+destination: docs/
 
 
 # Build settings
