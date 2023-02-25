@@ -22,18 +22,25 @@ title: SMASH
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   A Common Storage engine for Modern Memory and Storage Hierarchies.
-baseurl: "/githubpages" # the subpath of your site, e.g. /blog
-url: "https://sajadkarim.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
+show_downloads: true
+zip_url : "https://github.com/SajadKarim/githubpages/archive/refs/heads/main.zip"
+repo_url : "https://github.com/SajadKarim/githubpages"
 
 remote_theme: pages-themes/leap-day@v0.2.0
+
+
+
 
 # Build settings
 #theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default.
